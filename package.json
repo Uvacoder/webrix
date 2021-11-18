@@ -10,7 +10,7 @@
   ],
   "version": "0.0.0-development",
   "bugs": "https://github.com/open-amdocs/webrix/issues",
-  "homepage": "https://webrix.amdocs.com",
+  "homepage": "https://webrix.vercel.app",
   "license": "Apache-2.0",
   "main": "index.js",
   "types": "index.d.ts",
